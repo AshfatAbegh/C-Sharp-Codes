@@ -1,0 +1,6 @@
+D:\C#\Db Project Demo\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C#\Db Project Demo\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#\Db Project Demo\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\C#\Db Project Demo\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\C#\Db Project Demo\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\C#\Db Project Demo\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

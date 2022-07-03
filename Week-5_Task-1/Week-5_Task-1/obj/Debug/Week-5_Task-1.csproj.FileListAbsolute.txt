@@ -1,0 +1,7 @@
+D:\C#\Week-5_Task-1\Week-5_Task-1\bin\Debug\Week-5_Task-1.exe.config
+D:\C#\Week-5_Task-1\Week-5_Task-1\bin\Debug\Week-5_Task-1.exe
+D:\C#\Week-5_Task-1\Week-5_Task-1\bin\Debug\Week-5_Task-1.pdb
+D:\C#\Week-5_Task-1\Week-5_Task-1\obj\Debug\Week-5_Task-1.csproj.AssemblyReference.cache
+D:\C#\Week-5_Task-1\Week-5_Task-1\obj\Debug\Week-5_Task-1.csproj.CoreCompileInputs.cache
+D:\C#\Week-5_Task-1\Week-5_Task-1\obj\Debug\Week-5_Task-1.exe
+D:\C#\Week-5_Task-1\Week-5_Task-1\obj\Debug\Week-5_Task-1.pdb

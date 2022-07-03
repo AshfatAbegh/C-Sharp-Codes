@@ -1,0 +1,11 @@
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\bin\Debug\DemoWindowsFormApp.exe.config
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\bin\Debug\DemoWindowsFormApp.exe
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\bin\Debug\DemoWindowsFormApp.pdb
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.csproj.AssemblyReference.cache
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.Forminfo.resources
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.Properties.Resources.resources
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.csproj.GenerateResource.cache
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.csproj.CoreCompileInputs.cache
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.exe
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.pdb
+D:\C#\DemoWindowsFormApp\DemoWindowsFormApp\obj\Debug\DemoWindowsFormApp.Sample.resources

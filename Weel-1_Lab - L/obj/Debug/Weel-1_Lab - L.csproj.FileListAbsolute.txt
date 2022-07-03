@@ -1,0 +1,7 @@
+D:\C#\Weel-1_Lab - L\bin\Debug\Weel-1_Lab - L.exe.config
+D:\C#\Weel-1_Lab - L\bin\Debug\Weel-1_Lab - L.exe
+D:\C#\Weel-1_Lab - L\bin\Debug\Weel-1_Lab - L.pdb
+D:\C#\Weel-1_Lab - L\obj\Debug\Weel-1_Lab - L.csproj.AssemblyReference.cache
+D:\C#\Weel-1_Lab - L\obj\Debug\Weel-1_Lab - L.csproj.CoreCompileInputs.cache
+D:\C#\Weel-1_Lab - L\obj\Debug\Weel-1_Lab - L.exe
+D:\C#\Weel-1_Lab - L\obj\Debug\Weel-1_Lab - L.pdb

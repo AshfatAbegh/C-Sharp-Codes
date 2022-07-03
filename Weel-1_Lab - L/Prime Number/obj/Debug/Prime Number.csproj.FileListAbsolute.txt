@@ -1,0 +1,6 @@
+D:\C#\Weel-1_Lab - L\Prime Number\bin\Debug\Prime Number.exe.config
+D:\C#\Weel-1_Lab - L\Prime Number\bin\Debug\Prime Number.exe
+D:\C#\Weel-1_Lab - L\Prime Number\bin\Debug\Prime Number.pdb
+D:\C#\Weel-1_Lab - L\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+D:\C#\Weel-1_Lab - L\Prime Number\obj\Debug\Prime Number.exe
+D:\C#\Weel-1_Lab - L\Prime Number\obj\Debug\Prime Number.pdb

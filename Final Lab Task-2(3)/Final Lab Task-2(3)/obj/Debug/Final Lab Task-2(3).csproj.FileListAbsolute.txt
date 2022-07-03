@@ -1,0 +1,7 @@
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\bin\Debug\Final Lab Task-2(3).exe.config
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\bin\Debug\Final Lab Task-2(3).exe
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\bin\Debug\Final Lab Task-2(3).pdb
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\obj\Debug\Final Lab Task-2(3).csproj.AssemblyReference.cache
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\obj\Debug\Final Lab Task-2(3).csproj.CoreCompileInputs.cache
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\obj\Debug\Final Lab Task-2(3).exe
+D:\C#\Final Lab Task-2(3)\Final Lab Task-2(3)\obj\Debug\Final Lab Task-2(3).pdb

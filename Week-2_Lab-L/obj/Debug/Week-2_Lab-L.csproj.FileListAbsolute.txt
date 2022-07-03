@@ -1,0 +1,7 @@
+D:\C#\Week-2_Lab-L\obj\Debug\Week-2_Lab-L.csproj.AssemblyReference.cache
+D:\C#\Week-2_Lab-L\obj\Debug\Week-2_Lab-L.csproj.CoreCompileInputs.cache
+D:\C#\Week-2_Lab-L\bin\Debug\Week-2_Lab-L.exe.config
+D:\C#\Week-2_Lab-L\bin\Debug\Week-2_Lab-L.exe
+D:\C#\Week-2_Lab-L\bin\Debug\Week-2_Lab-L.pdb
+D:\C#\Week-2_Lab-L\obj\Debug\Week-2_Lab-L.exe
+D:\C#\Week-2_Lab-L\obj\Debug\Week-2_Lab-L.pdb

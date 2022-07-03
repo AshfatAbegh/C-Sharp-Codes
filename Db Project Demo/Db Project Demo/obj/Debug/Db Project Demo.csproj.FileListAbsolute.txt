@@ -1,0 +1,13 @@
+D:\C#\Db Project Demo\Db Project Demo\bin\Debug\Db Project Demo.exe.config
+D:\C#\Db Project Demo\Db Project Demo\bin\Debug\Db Project Demo.exe
+D:\C#\Db Project Demo\Db Project Demo\bin\Debug\Db Project Demo.pdb
+D:\C#\Db Project Demo\Db Project Demo\bin\Debug\DataAccessLayer.dll
+D:\C#\Db Project Demo\Db Project Demo\bin\Debug\DataAccessLayer.pdb
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db Project Demo.csproj.AssemblyReference.cache
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db_Project_Demo.Form1.resources
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db_Project_Demo.Properties.Resources.resources
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db Project Demo.csproj.GenerateResource.cache
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db Project Demo.csproj.CoreCompileInputs.cache
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db Project Demo.csproj.CopyComplete
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db Project Demo.exe
+D:\C#\Db Project Demo\Db Project Demo\obj\Debug\Db Project Demo.pdb

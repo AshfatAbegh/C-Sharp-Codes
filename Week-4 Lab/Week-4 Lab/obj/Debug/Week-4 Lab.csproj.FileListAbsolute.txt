@@ -1,0 +1,7 @@
+D:\C#\Week-4 Lab\Week-4 Lab\bin\Debug\Week-4 Lab.exe.config
+D:\C#\Week-4 Lab\Week-4 Lab\bin\Debug\Week-4 Lab.exe
+D:\C#\Week-4 Lab\Week-4 Lab\bin\Debug\Week-4 Lab.pdb
+D:\C#\Week-4 Lab\Week-4 Lab\obj\Debug\Week-4 Lab.csproj.AssemblyReference.cache
+D:\C#\Week-4 Lab\Week-4 Lab\obj\Debug\Week-4 Lab.csproj.CoreCompileInputs.cache
+D:\C#\Week-4 Lab\Week-4 Lab\obj\Debug\Week-4 Lab.exe
+D:\C#\Week-4 Lab\Week-4 Lab\obj\Debug\Week-4 Lab.pdb
